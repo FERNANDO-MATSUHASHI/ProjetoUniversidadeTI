@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "projectName": "DDD.Application.Api",
-        "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Application.Api\\obj\\",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Application.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,18 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj"
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj"
               },
-              "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -82,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
         "projectName": "DDD.Domain",
-        "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\obj\\",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -141,24 +141,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
         "projectName": "DDD.Infra.MemoryDb",
-        "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\obj\\",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -173,11 +173,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj"
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj"
               },
-              "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -213,24 +213,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "projectName": "DDD.Infra.SQLServer",
-        "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
-        "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\obj\\",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,8 +245,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Downloads\\DDD.Universidade-main\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj"
+              "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\VS CODE TESTE\\Projetos\\PlataformaUniversidadeDDD\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
@@ -294,7 +294,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

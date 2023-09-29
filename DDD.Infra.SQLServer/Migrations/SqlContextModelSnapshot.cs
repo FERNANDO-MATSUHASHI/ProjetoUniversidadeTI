@@ -50,7 +50,7 @@ namespace DDD.Infra.SQLServer.Migrations
 
                     b.HasIndex("PesquisadorUserId");
 
-                    b.ToTable("Projetos");
+                    b.ToTable("Projeto");
                 });
 
             modelBuilder.Entity("DDD.Domain.SecretariaContext.Disciplina", b =>
@@ -103,6 +103,27 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.HasIndex("DisciplinaId");
 
                     b.ToTable("Matriculas");
+                });
+
+            modelBuilder.Entity("DDD.Domain.TI.ProjetoTI", b =>
+                {
+                    b.Property<int>("GerenteId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProgramadorId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("DataEntrega")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProjetoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("GerenteId", "ProgramadorId");
+
+                    b.HasIndex("ProgramadorId");
+
+                    b.ToTable("Projetos", (string)null);
                 });
 
             modelBuilder.Entity("DDD.Domain.UserManagementContext.User", b =>
@@ -165,6 +186,31 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.ToTable("Aluno", (string)null);
                 });
 
+            modelBuilder.Entity("DDD.Domain.TI.Gerente", b =>
+                {
+                    b.HasBaseType("DDD.Domain.UserManagementContext.User");
+
+                    b.Property<string>("CargaHoraria")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.ToTable("GerenteTI", (string)null);
+                });
+
+            modelBuilder.Entity("DDD.Domain.TI.Programador", b =>
+                {
+                    b.HasBaseType("DDD.Domain.UserManagementContext.User");
+
+                    b.Property<string>("NivelAtuacao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProgramadorId")
+                        .HasColumnType("int");
+
+                    b.ToTable("Programador", (string)null);
+                });
+
             modelBuilder.Entity("DDD.Domain.PicContext.Projeto", b =>
                 {
                     b.HasOne("DDD.Domain.PicContext.Pesquisador", null)
@@ -189,6 +235,25 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Navigation("Aluno");
 
                     b.Navigation("Disciplina");
+                });
+
+            modelBuilder.Entity("DDD.Domain.TI.ProjetoTI", b =>
+                {
+                    b.HasOne("DDD.Domain.TI.Gerente", "Gerente")
+                        .WithMany()
+                        .HasForeignKey("GerenteId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("DDD.Domain.TI.Programador", "Programador")
+                        .WithMany()
+                        .HasForeignKey("ProgramadorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Gerente");
+
+                    b.Navigation("Programador");
                 });
 
             modelBuilder.Entity("DDD.Domain.PicContext.Pesquisador", b =>

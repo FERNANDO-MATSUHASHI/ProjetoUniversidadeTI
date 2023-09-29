@@ -3,7 +3,7 @@ using DDD.Infra.SQLServer.Interfaces.SecretariaInterface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DDD.Application.Api.Controllers
+namespace DDD.Application.Api.Controllers.Secretaria
 {
     [Route("api/[controller]")]
     [ApiController]

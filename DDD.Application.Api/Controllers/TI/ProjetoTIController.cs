@@ -1,40 +1,40 @@
+﻿using DDD.Domain.PicContext;
 using DDD.Domain.SecretariaContext;
+using DDD.Domain.TI;
 using DDD.Infra.SQLServer.Interfaces.SecretariaInterface;
-using Microsoft.AspNetCore.Http;
+using DDD.Infra.SQLServer.Interfaces.TIInterface;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DDD.Application.Api.Controllers
+namespace DDD.Application.Api.Controllers.TI
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class MatriculaController : ControllerBase
+    public class ProjetoTIController : ControllerBase
     {
-        readonly IMatriculaRepository _matriculaRepository;
+        readonly IProjetoTIRepository _projetoTIRepository;
 
-        public MatriculaController(IMatriculaRepository matriculaRepository)
+        public ProjetoTIController(IProjetoTIRepository projetoTIRepository)
         {
-            _matriculaRepository = matriculaRepository; 
+            _projetoTIRepository = projetoTIRepository;
         }
 
         [HttpGet]
         public ActionResult<List<Matricula>> Get()
         {
-            return Ok(_matriculaRepository.GetMatriculas());
+            return Ok(_projetoTIRepository.GetProjetosTI());
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Aluno> GetById(int id)
+        public ActionResult<ProjetoTI> GetById(int id)
         {
-            return Ok(_matriculaRepository.GetMatriculaById(id));
+            return Ok(_projetoTIRepository.GetProjetoTIById(id));
         }
 
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<Matricula> CreateMatricula(int idAluno, int idDisciplina)
+        public ActionResult<ProjetoTI> CreateProjetoTI(int idGerente, int idProgramador)
         {
-            Matricula matriculaIdSaved = _matriculaRepository.InsertMatricula(idAluno, idDisciplina);
-            return CreatedAtAction(nameof(GetById), new { id = matriculaIdSaved.MatriculaId }, matriculaIdSaved);
+            ProjetoTI projetoTIIdSaved = _projetoTIRepository.InsertProjetoTI(idGerente, idProgramador);
+            return CreatedAtAction(nameof(GetById), new { id = projetoTIIdSaved.ProjetoId }, projetoTIIdSaved);
         }
 
         //[HttpPut]

@@ -49,8 +49,8 @@ namespace DDD.Infra.SQLServer
         public DbSet<Disciplina> Disciplinas { get; set; }
         public DbSet<Matricula> Matriculas { get; set; }
         //PicContext
-        public DbSet<Pesquisador> Pesquisadores { get; set; }
-        public DbSet<Projeto> Projetos { get; set; }
+        //public DbSet<Pesquisador> Pesquisadores { get; set; }
+        //public DbSet<Projeto> Projetos { get; set; }
         //TIContext
         public DbSet<Gerente> Gerentes { get; set; }
         public DbSet<Programador> Programadores { get; set; }

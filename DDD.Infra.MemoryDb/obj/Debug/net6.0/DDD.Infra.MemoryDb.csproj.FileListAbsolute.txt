@@ -49,20 +49,3 @@ C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUnive
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
-E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll

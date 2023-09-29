@@ -19,7 +19,7 @@ namespace DDD.Application.Api.Controllers.TI
         }
 
         [HttpGet]
-        public ActionResult<List<Matricula>> Get()
+        public ActionResult<List<ProjetoTI>> Get()
         {
             return Ok(_projetoTIRepository.GetProjetosTI());
         }

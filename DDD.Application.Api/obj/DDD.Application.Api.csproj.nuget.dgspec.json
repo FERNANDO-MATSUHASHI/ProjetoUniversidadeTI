@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
+    "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
   },
   "projects": {
-    "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Application.Api\\DDD.Application.Api.csproj": {
+    "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\DDD.Application.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "projectUniqueName": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "projectName": "DDD.Application.Api",
-        "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Application.Api\\DDD.Application.Api.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Application.Api\\obj\\",
+        "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "packagesPath": "C:\\Users\\matsu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,18 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
-                "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj"
+              "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
+                "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj"
               },
-              "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -82,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj": {
+    "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj",
         "projectName": "DDD.Domain",
-        "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\obj\\",
+        "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\matsu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,6 +108,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -141,24 +142,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
+    "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
+        "projectUniqueName": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
         "projectName": "DDD.Infra.MemoryDb",
-        "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.MemoryDb\\obj\\",
+        "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\DDD.Infra.MemoryDb.csproj",
+        "packagesPath": "C:\\Users\\matsu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.MemoryDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,17 +168,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj"
+              "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj"
               },
-              "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -213,24 +215,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+    "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectUniqueName": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "projectName": "DDD.Infra.SQLServer",
-        "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Infra.SQLServer\\obj\\",
+        "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "packagesPath": "C:\\Users\\matsu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Infra.SQLServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -239,14 +241,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "E:\\Meus Documentos\\Downloads\\PlataformaUniversidadeDBTI\\DDD.Domain\\DDD.Domain.csproj"
+              "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
@@ -294,7 +297,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,7 +10,7 @@ namespace DDD.Domain.TI
 {
     public class Programador : User
     {
-        public int ProgramadorId { get; set; }
+        //public int ProgramadorId { get; set; }
         public string NivelAtuacao { get; set; }
 
         public IList<Gerente>? Gerente { get; set; }

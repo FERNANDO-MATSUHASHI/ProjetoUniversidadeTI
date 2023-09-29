@@ -34,7 +34,7 @@ namespace DDD.Infra.SQLServer.Repositories.TIRepository
         public ProjetoTI InsertProjetoTI(int idGerente, int idProgramador)
         {
             var gerente = _context.Gerentes.First(i => i.UserId == idGerente);
-            var programador = _context.Programadores.First(i => i.ProgramadorId == idProgramador);
+            var programador = _context.Programadores.First(i => i.UserId == idProgramador);
 
             var projetoTI = new ProjetoTI
             {

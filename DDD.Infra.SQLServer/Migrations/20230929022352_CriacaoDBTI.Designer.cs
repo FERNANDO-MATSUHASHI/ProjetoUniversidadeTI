@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DDD.Infra.SQLServer.Migrations
 {
     [DbContext(typeof(SqlContext))]
-    [Migration("20230929010911_CriacaoDBTI")]
+    [Migration("20230929022352_CriacaoDBTI")]
     partial class CriacaoDBTI
     {
         /// <inheritdoc />
@@ -126,7 +126,7 @@ namespace DDD.Infra.SQLServer.Migrations
 
                     b.HasIndex("ProgramadorId");
 
-                    b.ToTable("Projetos", (string)null);
+                    b.ToTable("ProjetosTI", (string)null);
                 });
 
             modelBuilder.Entity("DDD.Domain.UserManagementContext.User", b =>
@@ -207,9 +207,6 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<string>("NivelAtuacao")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("ProgramadorId")
-                        .HasColumnType("int");
 
                     b.ToTable("Programador", (string)null);
                 });

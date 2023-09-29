@@ -98,7 +98,6 @@ namespace DDD.Infra.SQLServer.Migrations
                     Senha = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     DataCadastro = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Ativo = table.Column<bool>(type: "bit", nullable: false),
-                    ProgramadorId = table.Column<int>(type: "int", nullable: false),
                     NivelAtuacao = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
@@ -155,7 +154,7 @@ namespace DDD.Infra.SQLServer.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Projetos",
+                name: "ProjetosTI",
                 columns: table => new
                 {
                     GerenteId = table.Column<int>(type: "int", nullable: false),
@@ -165,15 +164,15 @@ namespace DDD.Infra.SQLServer.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Projetos", x => new { x.GerenteId, x.ProgramadorId });
+                    table.PrimaryKey("PK_ProjetosTI", x => new { x.GerenteId, x.ProgramadorId });
                     table.ForeignKey(
-                        name: "FK_Projetos_GerenteTI_GerenteId",
+                        name: "FK_ProjetosTI_GerenteTI_GerenteId",
                         column: x => x.GerenteId,
                         principalTable: "GerenteTI",
                         principalColumn: "UserId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Projetos_Programador_ProgramadorId",
+                        name: "FK_ProjetosTI_Programador_ProgramadorId",
                         column: x => x.ProgramadorId,
                         principalTable: "Programador",
                         principalColumn: "UserId",
@@ -196,8 +195,8 @@ namespace DDD.Infra.SQLServer.Migrations
                 column: "PesquisadorUserId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Projetos_ProgramadorId",
-                table: "Projetos",
+                name: "IX_ProjetosTI_ProgramadorId",
+                table: "ProjetosTI",
                 column: "ProgramadorId");
         }
 
@@ -211,7 +210,7 @@ namespace DDD.Infra.SQLServer.Migrations
                 name: "Projeto");
 
             migrationBuilder.DropTable(
-                name: "Projetos");
+                name: "ProjetosTI");
 
             migrationBuilder.DropTable(
                 name: "Aluno");

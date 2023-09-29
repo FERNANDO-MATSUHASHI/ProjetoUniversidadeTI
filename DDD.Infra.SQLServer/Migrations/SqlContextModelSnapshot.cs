@@ -123,7 +123,7 @@ namespace DDD.Infra.SQLServer.Migrations
 
                     b.HasIndex("ProgramadorId");
 
-                    b.ToTable("Projetos", (string)null);
+                    b.ToTable("ProjetosTI", (string)null);
                 });
 
             modelBuilder.Entity("DDD.Domain.UserManagementContext.User", b =>
@@ -204,9 +204,6 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<string>("NivelAtuacao")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("ProgramadorId")
-                        .HasColumnType("int");
 
                     b.ToTable("Programador", (string)null);
                 });

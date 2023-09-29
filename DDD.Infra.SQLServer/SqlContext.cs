@@ -39,6 +39,7 @@ namespace DDD.Infra.SQLServer
             modelBuilder.Entity<User>().UseTpcMappingStrategy();
             modelBuilder.Entity<Gerente>().ToTable("GerenteTI");
             modelBuilder.Entity<Programador>().ToTable("Programador");
+            modelBuilder.Entity<ProjetoTI>().ToTable("Projetos");
         }
 
         //UserManagementContext

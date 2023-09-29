@@ -1,5 +1,5 @@
 using DDD.Domain.SecretariaContext;
-using DDD.Infra.SQLServer.Interfaces;
+using DDD.Infra.SQLServer.Interfaces.SecretariaInterface;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDD.Infra.SQLServer.Repositories
+namespace DDD.Infra.SQLServer.Repositories.SecretariaRepository
 {
     public class AlunoRepositorySqlServer : IAlunoRepository
     {

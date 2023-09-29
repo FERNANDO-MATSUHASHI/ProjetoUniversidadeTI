@@ -1,5 +1,5 @@
 using DDD.Domain.SecretariaContext;
-using DDD.Infra.SQLServer.Interfaces;
+using DDD.Infra.SQLServer.Interfaces.SecretariaInterface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

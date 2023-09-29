@@ -1,12 +1,12 @@
 using DDD.Domain.SecretariaContext;
-using DDD.Infra.SQLServer.Interfaces;
+using DDD.Infra.SQLServer.Interfaces.SecretariaInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDD.Infra.SQLServer.Repositories
+namespace DDD.Infra.SQLServer.Repositories.SecretariaRepository
 {
     public class MatriculaRepositorySqlServer : IMatriculaRepository
     {
@@ -35,7 +35,7 @@ namespace DDD.Infra.SQLServer.Repositories
 
         public Matricula InsertMatricula(int idAluno, int idDisciplina)
         {
-            var aluno = _context.Alunos .First(i => i.UserId == idAluno);
+            var aluno = _context.Alunos.First(i => i.UserId == idAluno);
             var disciplina = _context.Disciplinas.First(i => i.DisciplinaId == idDisciplina);
 
             var matricula = new Matricula

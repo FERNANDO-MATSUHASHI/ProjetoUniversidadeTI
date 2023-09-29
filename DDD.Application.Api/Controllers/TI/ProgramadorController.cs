@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DDD.Application.Api.Controllers.TI
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class ProgramadorController : ControllerBase
     {
         readonly IProgramadorRepository _programadorRepository;

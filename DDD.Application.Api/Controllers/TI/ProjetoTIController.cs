@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DDD.Application.Api.Controllers.TI
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class ProjetoTIController : ControllerBase
     {
         readonly IProjetoTIRepository _projetoTIRepository;

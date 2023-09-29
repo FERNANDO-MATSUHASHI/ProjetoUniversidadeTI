@@ -49,3 +49,20 @@ C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUnive
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+E:\Meus Documentos\Downloads\PlataformaUniversidadeDBTI\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll

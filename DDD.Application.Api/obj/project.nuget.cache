@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+YOOUOrEIzf/KMeXnq43/WjUsey9+63nnULYlcaI3lHZROLv6onZwJjlvjbvG1/aoX8J9dIIjh1z6asX1tOyA==",
+  "dgSpecHash": "gW073FcASZz9HaiimJj2q65zTXOk+ZD6OSVS1mHxxO9PceKQ3yKEmz6ZrnWa0vFPiRcewqYL0/mt3bsb+fw0NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Application.Api\\DDD.Application.Api.csproj",
+  "projectFilePath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\UniversidadeTI-Navarro\\PlataformaUniversidadeDBTI-API\\DDD.Application.Api\\DDD.Application.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matsu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\matsu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -7,6 +7,14 @@ using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Importante para rodar
+builder.Services.AddCors();
+
+builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
+{
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
+
 // Add services to the container.
 
 //IOC - Dependency Injection
@@ -40,8 +48,17 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+//Importante para rodar
+app.UseCors("corsapp");
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+
+app.UseCors(c =>
+{
+    c.AllowAnyHeader();
+    c.AllowAnyMethod();
+    c.AllowAnyOrigin();
+});

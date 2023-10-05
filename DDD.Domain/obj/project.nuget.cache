@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1k95kkU6WSVUpBsCs/nNPDR+fTXzpPmz+yr3sKXTfvvFQ16/fMvTJZye6SuFEdMC4NNwJgO4kItKEwgcV7xfGA==",
+  "dgSpecHash": "vvgF7sjxVgjxsHYekI/pec7X9l7thmeVSNPkyYRsAUz2T1i+khbulFeP/fclsUvI7X4IVSCm06KbUHvKB+UJgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\PlataformaUniversidadeDBTI-Funcionando\\DDD.Domain\\DDD.Domain.csproj",
+  "projectFilePath": "C:\\Users\\matsu\\Documents\\4º Termo\\Linguagem de Programação II\\UniversidadeTI-Navarro\\PlataformaUniversidadeDBTI-API\\DDD.Domain\\DDD.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

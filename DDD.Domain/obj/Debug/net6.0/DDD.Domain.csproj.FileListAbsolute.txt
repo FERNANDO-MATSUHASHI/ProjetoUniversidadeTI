@@ -44,3 +44,5 @@ C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Domain\bin\Debug\net6.0\DDD.Domain.runtimeconfig.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Domain\obj\Debug\net6.0\DDD.Domain.genruntimeconfig.cache

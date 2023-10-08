@@ -30,7 +30,7 @@ namespace DDD.Infra.SQLServer.Repositories.SecretariaRepository
 
         public List<Matricula> GetMatriculas()
         {
-            throw new NotImplementedException();
+            return _context.Matriculas.ToList();
         }
 
         public Matricula InsertMatricula(int idAluno, int idDisciplina)

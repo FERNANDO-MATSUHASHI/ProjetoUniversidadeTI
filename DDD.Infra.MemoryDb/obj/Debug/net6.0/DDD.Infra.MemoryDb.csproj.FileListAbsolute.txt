@@ -66,3 +66,5 @@ C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
 C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.runtimeconfig.json
+C:\Users\matsu\Documents\4º Termo\Linguagem de Programação II\UniversidadeTI-Navarro\PlataformaUniversidadeDBTI-API\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.genruntimeconfig.cache
